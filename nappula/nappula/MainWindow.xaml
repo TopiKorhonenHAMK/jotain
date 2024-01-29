@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="nappula" HorizontalAlignment="Left" Margin="167,63,0,0" VerticalAlignment="Top" Height="73" Width="117" Click="Button_Click"/>
-        <TextBox HorizontalAlignment="Left" Margin="284,237,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="208" Height="90"/>
+        <TextBox HorizontalAlignment="Left" Margin="284,237,0,0" TextWrapping="Wrap" Text="Kakkapylly" VerticalAlignment="Top" Width="208" Height="90" TextChanged="TextBox_TextChanged"/>
 
     </Grid>
 </Window>
