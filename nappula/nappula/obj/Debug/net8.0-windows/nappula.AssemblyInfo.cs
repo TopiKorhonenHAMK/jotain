@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nappula")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6a77918e1788d3c6673a34afee34779e352bad0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e547c0a8c65f1e4e743da71b1b8e7fa6b27b01ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("nappula")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nappula")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

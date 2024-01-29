@@ -7,8 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+<<<<<<< HEAD
         <Button x:Name="Button1" Content="nappula" HorizontalAlignment="Left" Margin="167,63,0,0" VerticalAlignment="Top" Height="73" Width="117" Click="Button_Click"/>
         <TextBox x:Name="Boxi1" HorizontalAlignment="Left" Margin="284,237,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="208" Height="90" TextChanged="TextBox_TextChanged"/>
+=======
+        <Button Content="nappula" HorizontalAlignment="Left" Margin="167,63,0,0" VerticalAlignment="Top" Height="73" Width="117" Click="Button_Click"/>
+        <TextBox HorizontalAlignment="Left" Margin="284,237,0,0" TextWrapping="Wrap" Text="Kakkapylly" VerticalAlignment="Top" Width="208" Height="90" TextChanged="TextBox_TextChanged"/>
+>>>>>>> fce4c1912b38296467ebf314f73e9b3c2c2865f0
 
     </Grid>
 </Window>
