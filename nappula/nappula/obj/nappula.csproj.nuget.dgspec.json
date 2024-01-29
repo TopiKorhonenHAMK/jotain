@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johnr\\OneDrive - Hämeen ammattikorkeakoulu\\ohjelmointi\\C#\\nappula\\nappula\\nappula.csproj": {}
+    "C:\\Users\\mirok\\Documents\\Ohjelmoini1\\jotain\\nappula\\nappula\\nappula.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johnr\\OneDrive - Hämeen ammattikorkeakoulu\\ohjelmointi\\C#\\nappula\\nappula\\nappula.csproj": {
+    "C:\\Users\\mirok\\Documents\\Ohjelmoini1\\jotain\\nappula\\nappula\\nappula.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johnr\\OneDrive - Hämeen ammattikorkeakoulu\\ohjelmointi\\C#\\nappula\\nappula\\nappula.csproj",
+        "projectUniqueName": "C:\\Users\\mirok\\Documents\\Ohjelmoini1\\jotain\\nappula\\nappula\\nappula.csproj",
         "projectName": "nappula",
-        "projectPath": "C:\\Users\\johnr\\OneDrive - Hämeen ammattikorkeakoulu\\ohjelmointi\\C#\\nappula\\nappula\\nappula.csproj",
-        "packagesPath": "C:\\Users\\johnr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johnr\\OneDrive - Hämeen ammattikorkeakoulu\\ohjelmointi\\C#\\nappula\\nappula\\obj\\",
+        "projectPath": "C:\\Users\\mirok\\Documents\\Ohjelmoini1\\jotain\\nappula\\nappula\\nappula.csproj",
+        "packagesPath": "C:\\Users\\mirok\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mirok\\Documents\\Ohjelmoini1\\jotain\\nappula\\nappula\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\johnr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mirok\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
